@@ -50,3 +50,7 @@ print (find(sequence, subseq, start, end))
 print ("Multi_find function result:")
 print (multi_find(sequence, subseq, start, end))
 substring_match(sequence, subseq, start, end)
+
+
+
+
